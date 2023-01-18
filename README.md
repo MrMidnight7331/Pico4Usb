@@ -13,3 +13,5 @@ Running pico8 for the first time, config scripts and cart folder etc. will be ge
 ## Pico8
 You can download the pico8 program from the original vendor: https://www.lexaloffle.com/pico-8.php
 
+## Resources
+Free resources from lexaloffle will be in the /Resources folder
